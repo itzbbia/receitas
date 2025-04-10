@@ -20,9 +20,10 @@ html {
 
 
   #inicio{
-    background-color: rgb(219, 119, 169);
+    background-color: rgb(255, 255, 255);
     text-align: center;
-    padding: 8px ;
+    padding: 8px ;}
 
-  }
-
+    #meio{
+      text-align: left;
+    }
