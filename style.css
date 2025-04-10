@@ -22,7 +22,11 @@ html {
   #inicio{
     background-color: rgb(255, 255, 255);
     text-align: center;
-    padding: 21px ;}
+    padding: 21px ;
+  border: 18px;
+
+}
+    
 
     #meio{
       text-align: left;
