@@ -16,5 +16,13 @@ html {
   }
   th{
     background-color: white; /* Define a cor de fundo da célula */
+  }]
+
+
+  #inicio{
+    background-color: rgb(219, 119, 169);
+    text-align: center;
+    padding: 8px ;
+
   }
 
