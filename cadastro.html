@@ -132,6 +132,26 @@ form button :hover {
   background-color: #ffffff;
 }
 
+  /* Basic styling for the select box */
+  #pagamento-select {
+    border: 1px solid #ccc;
+    padding: 8px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  /* Style when the select box itself is hovered */
+  #pagamento-select:hover {
+    border-color: #007bff; /* Example: blue border on hover */
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Example: light shadow */
+  }
+
+  /* Note: Styling individual options on hover directly like this generally won't work consistently */
+  #pagamento-select option:hover {
+    background-color: lightblue; /* This will likely NOT work as expected */
+    color: white; /* This will likely NOT work as expected */
+  }
                </style>
                
 
